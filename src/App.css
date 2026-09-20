@@ -2726,3 +2726,8 @@ body {
   font-size: 18px;
   margin-top: 8px;
 }
+/* Make Couple Story flowers smaller */
+.couple-story .story-golden-flower {
+  width: 220px;
+  height: auto;
+}
